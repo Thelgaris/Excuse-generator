@@ -1,3 +1,13 @@
+Hola 4Geeks teacher!
+
+He creado este generador de escusas y espero que te guste.
+
+EL generador de escusas se crea a partir de varias listas de objetos "arrays" y a través de las operaciones Math random y math floor, esto hace que escoja un objeto al azar de cada lista de objetos usando "lenght" y devuelva la suma de cada objeto escogido. Esto genera una frase al azar que en este caso es una escusa.
+
+Gracias!
+
+
+
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
