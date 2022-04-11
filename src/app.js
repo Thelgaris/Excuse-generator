@@ -1,5 +1,4 @@
 window.onload = function() {
-  //write your code here
   document.getElementById("escuse").innerHTML = "Hola";
 
   document.querySelector("#escuse").innerHTML = escuse();
